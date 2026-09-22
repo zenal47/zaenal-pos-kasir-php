@@ -57,7 +57,7 @@
     <link href="sb-admin/css/sb-admin-2.min.css" rel="stylesheet">
 </head>
 
-<body class="bg-gradient-primary">
+<body class="bg-gradient-danger">
     <div class="container">
 
         <!-- Outer Row -->
