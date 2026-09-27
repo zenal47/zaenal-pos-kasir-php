@@ -57,7 +57,7 @@
     <link href="sb-admin/css/sb-admin-2.min.css" rel="stylesheet">
 </head>
 
-<body class="bg-gradient-primary">
+<body class="bg-success">
     <div class="container">
 
         <!-- Outer Row -->
@@ -79,7 +79,7 @@
 									<input type="password" class="form-control form-control-user" name="pass"
 										placeholder="Password">
 								</div>
-								<button class="btn btn-primary btn-block" name="proses" type="submit"><i
+								<button class="btn btn-success btn-block" name="proses" type="submit"><i
 										class="fa fa-lock"></i>
 									SIGN IN</button>
 							</form>
